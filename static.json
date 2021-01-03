@@ -1,0 +1,7 @@
+{
+  "root": "build/",
+  "routes": {
+    "/home/**": "index.html",
+    "/**": "index.html"
+  }
+}
